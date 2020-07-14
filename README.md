@@ -15,5 +15,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-### Tou Can Reach me :
+### You Can Reach me @
 [![LinkedIn](https://github.com/OmarMFathy219/OmarMFathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/omarmfathy219)&nbsp; [![Twitter](https://github.com/OmarMFathy219/OmarMFathy219/blob/master/twitter.png)](https://twitter.com/OmarMFathy219)&nbsp;&nbsp;[![Facebook](https://github.com/OmarMFathy219/OmarMFathy219/blob/master/facebook.png)](https://www.facebook.com/OmarMFathy219/)&nbsp;&nbsp;[![Medium](https://github.com/OmarMFathy219/OmarMFathy219/blob/master/medium.png)](https://www.medium.com/@omarmfathy219)
