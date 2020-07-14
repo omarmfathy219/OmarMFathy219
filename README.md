@@ -1,4 +1,4 @@
-<h4> Hey there👋, I'm Omar Fathy👨‍💻.<h4>
+<h4> Hey there👋 I'm Omar Fathy👨‍💻<h4>
 
 <p>
   <img align="left" width=20% src="http://dev-prashant.co/img/banner/home-right.png">
