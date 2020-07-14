@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width=35% src="http://dev-prashant.co/img/banner/home-right.png">
+  <img align="left" width=40% src="http://dev-prashant.co/img/banner/home-right.png">
 </p>
 
 <h4> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Omar Fathy👨‍💻<h4>
