@@ -11,8 +11,40 @@
 ## 💻 Languages and Tools:
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"  title="AWS">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         alt="AWS"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"  title="gcp">
+      <img
+        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+        alt="gcp"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"  title="azure">
+      <img
+        src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+        alt="azure"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"  title="linux">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        alt="linux"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.redhat.com" target="_blank" rel="noreferrer"  title="RedHat">
+      <img
+        src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"
+        alt="redhat"
         width="40"
         height="40"
       />
@@ -44,10 +76,43 @@
         height="40"
       />
     </a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"  title="linux">
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"  title="jenkins">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux"
+        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+        alt="jenkins"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://www.ansible.com" target="_blank" rel="noreferrer"  title="Ansible">
+      <img
+        src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
+        alt="ansible"
+        width="40"
+        height="40"
+      />
+    </a>
+        </a>
+        <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"  title="Terraform">
+      <img
+        src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
+        alt="terraform"
+        width="40"
+        height="40"
+      />
+    </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"  title="Nginx">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+        alt="nginx"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"  title="Apache">
+      <img
+        src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"
+        alt="apache"
         width="40"
         height="40"
       />
@@ -60,10 +125,10 @@
         height="40"
       />
     </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"  title="jenkins">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"  title="python">
       <img
-        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-        alt="jenkins"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
         width="40"
         height="40"
       />
@@ -76,26 +141,10 @@
         height="40"
       />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"  title="python">
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="HTML5">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"  title="azure">
-      <img
-        src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-        alt="azure"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  title="bootstrap">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html"
         width="40"
         height="40"
       />
@@ -108,14 +157,6 @@
         height="40"
       />
     </a>
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"  title="gcp">
-      <img
-        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-        alt="gcp"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="hhttps://www.javascript.com/" target="_blank" rel="noreferrer"  title="JavaScript">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -124,23 +165,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="HTML5">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"  title="Nginx">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-        alt="nginx"
-        width="40"
-        height="40"
-      />
-    </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"  title="sass">
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"  title="sass">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
         alt="sass"
@@ -148,6 +173,14 @@
         height="40"
       />
     </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  title="bootstrap">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        alt="bootstrap"
+        width="40"
+        height="40"
+      />
+    </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"  title="tailwind">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
