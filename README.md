@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 - 🌱 I’m currently learning Cloud and DevOps
-- 📝 I regularly write articles on [https://omarfathy.hashnode.dev/](https://omarfathy.hashnode.dev/)
+- 📝 I regularly write articles on [https://omarfathy.hashnode.dev/](https://omarfathy.hashnode.dev)
 
 
 ## 💻 Languages and Tools:
