@@ -158,7 +158,7 @@ and I have a passion to read about new things in the cloud commputing and sharin
     </a>
     </p>
 
-<p align="center">
+<p align="left">
   #### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
 
 [![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/omarmfathy219)&nbsp; [![Twitter](https://github.com/omarmfathy219/omarmfathy219/blob/master/twitter.png)](https://twitter.com/omarmfathy219)&nbsp;&nbsp;
