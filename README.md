@@ -84,10 +84,34 @@
         height="40"
       />
     </a>
-        <a href="https://www.ansible.com" target="_blank" rel="noreferrer"  title="Ansible">
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"  title="jenkins">
       <img
-        src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
-        alt="ansible"
+        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+        alt="jenkins"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://circleci.com" target="_blank" rel="noreferrer"  title="CircleCI">
+      <img
+        src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
+        alt="CircleCI"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://concourse-ci.org" target="_blank" rel="noreferrer"  title="ConcourseCI">
+      <img
+        src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg"
+        alt="ConcourseCI"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://argoproj.github.io" target="_blank" rel="noreferrer"  title="ArgoCD">
+      <img
+        src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"
+        alt="ArgoCD"
         width="40"
         height="40"
       />
@@ -129,6 +153,65 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python"
+        width="40"
+        height="40"
+      />
+    </a>
+      <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"  title="kibana">
+      <img
+        src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
+        alt="kibana"
+        width="40"
+        height="40"
+      />
+    </a>
+      <a href="https://cloud.google.com/apigee" target="_blank" rel="noreferrer"  title="apigee">
+      <img
+        src="https://www.vectorlogo.zone/logos/apigee/apigee-ar21.svg"
+        alt="apigee"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://istio.io/" target="_blank" rel="noreferrer"  title="istio">
+      <img
+        src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg"
+        alt="istio"
+        width="40"
+        height="40"
+      />
+    </a>
+    </a>
+        <a href="https://www.jaegertracing.io" target="_blank" rel="noreferrer"  title="Jaeger">
+      <img
+        src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg"
+        alt="Jaeger"
+        width="40"
+        height="40"
+      />
+    </a>
+    </a>
+        <a href="https://goharbor.io" target="_blank" rel="noreferrer"  title="Harbor">
+      <img
+        src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg"
+        alt="Harbor"
+        width="40"
+        height="40"
+      />
+    </a>
+        </a>
+        <a href="https://helm.sh" target="_blank" rel="noreferrer"  title="Helm">
+      <img
+        src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"
+        alt="Helm"
+        width="40"
+        height="40"
+      />
+    </a>
+        <a href="https://redis.io" target="_blank" rel="noreferrer"  title="Redis">
+      <img
+        src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
+        alt="Helm"
         width="40"
         height="40"
       />
