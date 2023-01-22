@@ -75,15 +75,6 @@
         width="40"
         height="40"
       />
-    </a>
-      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"  title="jenkins">
-      <img
-        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-        alt="jenkins"
-        width="40"
-        height="40"
-      />
-    </a>
       <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"  title="jenkins">
       <img
         src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
