@@ -156,6 +156,24 @@
         height="40"
       />
     </a>
+    </a>
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer"  title="Prometheus">
+      <img
+        src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"
+        alt="Prometheus"
+        width="40"
+        height="40"
+      />
+    </a>
+    </a>
+      <a href="https://grafana.com" target="_blank" rel="noreferrer"  title="Grafana">
+      <img
+        src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
+        alt="Grafana"
+        width="40"
+        height="40"
+      />
+    </a>
       <a href="https://cloud.google.com/apigee" target="_blank" rel="noreferrer"  title="apigee">
       <img
         src="https://www.vectorlogo.zone/logos/apigee/apigee-ar21.svg"
