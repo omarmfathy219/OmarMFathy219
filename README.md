@@ -1,6 +1,6 @@
 ## `Hey There!` , I'm Omar Fathy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
-<p>Cloud Engineer ☁️ currently learning to support, automate, and optimize mission-critical deployments with the AWS cloud. and I have a passion to read about new things in cloud computing and sharing knowledge with my team, obsessed with finding challenges.</p>
+<p>DevOps Engineer ☁️ currently learning to support, automate, and optimize mission-critical deployments with the AWS cloud. and I have a passion to read about new things in cloud computing and sharing knowledge with my team, obsessed with finding challenges.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmfathy219&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ## 💫 About Me:
